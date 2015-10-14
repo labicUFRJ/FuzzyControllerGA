@@ -1,0 +1,1 @@
+function [robot] = robotRandomInit (robot)

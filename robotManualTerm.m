@@ -1,0 +1,2 @@
+function [robot] = robotManualTerm (robot)
+	

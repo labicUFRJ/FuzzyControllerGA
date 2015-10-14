@@ -1,0 +1,2 @@
+function [environ] = environTerm (environ)
+	
